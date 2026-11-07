@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<mask id="letterMask">
+<rect width="200" height="200" fill="black"/>
+<rect x="62" y="42" width="20" height="116" rx="4" fill="white"/>
+<circle cx="82" cy="71" r="29" fill="white"/>
+<circle cx="85" cy="129" r="31" fill="white"/>
+<circle cx="86" cy="71" r="16" fill="black"/>
+<circle cx="90" cy="129" r="18" fill="black"/>
+</mask>
+<rect width="200" height="200" fill="#0F172A" mask="url(#letterMask)"/>
+<path d="M81,119 Q75,129 81,139 L101,129 Z" fill="#D4AF37"/>
+<circle cx="135" cy="53" r="7" fill="#D4AF37"/>
+</svg>
